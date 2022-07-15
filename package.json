@@ -1,0 +1,19 @@
+{
+  "name": "example_package",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroPB97/example_package.git"
+  },
+  "author": "Pedro Parra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroPB97/example_package/issues"
+  },
+  "homepage": "https://github.com/PedroPB97/example_package#readme"
+}
